@@ -1,0 +1,4 @@
+ApplianceName,ApplianceType,IP
+TPLink_KL130_Color_Bulb1,TPLink_Bulb,192.168.0.101
+TPLink_KL110_White_Bulb1,TPLink_Bulb,192.168.0.102
+TPLink_HS105_Plug1,TPLink_Plug,192.168.0.103
