@@ -1,0 +1,1 @@
+appliance_data_logger.jsを実行してください
